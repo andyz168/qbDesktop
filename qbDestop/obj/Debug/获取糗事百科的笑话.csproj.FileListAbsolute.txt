@@ -20,3 +20,14 @@ D:\program\gitRepository\qbDesktop\qbDestop\bin\Debug\获取糗事百科的笑�
 D:\program\gitRepository\qbDesktop\qbDestop\bin\Debug\获取糗事百科的笑话.pdb
 D:\program\gitRepository\qbDesktop\qbDestop\bin\Debug\HtmlAgilityPack.dll
 D:\program\gitRepository\qbDesktop\qbDestop\bin\Debug\MyControlLibrary.dll
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.exe
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.pdb
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\bin\Debug\获取糗事百科的笑话.exe
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\bin\Debug\获取糗事百科的笑话.pdb
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\bin\Debug\HtmlAgilityPack.dll
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\bin\Debug\MyControlLibrary.dll
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\bin\Debug\MyControlLibrary.pdb
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.csprojResolveAssemblyReference.cache
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.FrmMain.resources
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.Properties.Resources.resources
+F:\WorkSpace\OsChina\qb\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.csproj.GenerateResource.Cache

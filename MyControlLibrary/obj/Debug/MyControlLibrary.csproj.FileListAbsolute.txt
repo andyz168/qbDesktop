@@ -5,3 +5,10 @@ D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyCont
 D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyControlLibrary.Resource.resources
 D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyControlLibrary.csproj.GenerateResource.Cache
 D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyControlLibrary.csprojResolveAssemblyReference.cache
+F:\WorkSpace\OsChina\qb\qbDesktop\MyControlLibrary\bin\Debug\MyControlLibrary.dll
+F:\WorkSpace\OsChina\qb\qbDesktop\MyControlLibrary\bin\Debug\MyControlLibrary.pdb
+F:\WorkSpace\OsChina\qb\qbDesktop\MyControlLibrary\obj\Debug\MyControlLibrary.csprojResolveAssemblyReference.cache
+F:\WorkSpace\OsChina\qb\qbDesktop\MyControlLibrary\obj\Debug\MyControlLibrary.Resource.resources
+F:\WorkSpace\OsChina\qb\qbDesktop\MyControlLibrary\obj\Debug\MyControlLibrary.csproj.GenerateResource.Cache
+F:\WorkSpace\OsChina\qb\qbDesktop\MyControlLibrary\obj\Debug\MyControlLibrary.dll
+F:\WorkSpace\OsChina\qb\qbDesktop\MyControlLibrary\obj\Debug\MyControlLibrary.pdb

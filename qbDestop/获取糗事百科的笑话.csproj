@@ -39,10 +39,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\HtmlAgilityPack.dll</HintPath>
     </Reference>
-    <Reference Include="MyControlLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\MyControlLibrary.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
@@ -88,6 +84,12 @@
   <ItemGroup>
     <Content Include="HtmlAgilityPack.dll" />
     <Content Include="mxcp562c11dfa9ec8a13e1f1c4c9f503918fa0ecc034.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyControlLibrary\MyControlLibrary.csproj">
+      <Project>{5f614318-bc87-45bb-90ea-234fcce68828}</Project>
+      <Name>MyControlLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
